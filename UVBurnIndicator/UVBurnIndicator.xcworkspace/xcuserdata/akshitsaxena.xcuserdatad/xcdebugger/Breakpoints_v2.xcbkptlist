@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E30B85D-4D97-4D3D-9A39-79F9CF4AC4F1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B769EFA-DD80-41E6-8AC8-C5D685234539"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVBurnIndicator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "getLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B769EFA-DD80-41E6-8AC8-C5D685234539 - 62461a4e5f5e5282"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "1B769EFA-DD80-41E6-8AC8-C5D685234539 - 62461a4e5f5e531d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "1B769EFA-DD80-41E6-8AC8-C5D685234539 - 62461a4e5f5e52fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A43A4F6-D0E3-442D-9546-2FD28E23512F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVBurnIndicator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "getLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A43A4F6-D0E3-442D-9546-2FD28E23512F - 62461a4e5f5e52fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "3A43A4F6-D0E3-442D-9546-2FD28E23512F - 62461a4e5f5e535f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "3A43A4F6-D0E3-442D-9546-2FD28E23512F - 62461a4e5f5e533e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAA587B7-63F7-499D-ABB0-C745550E9990"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVBurnIndicator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FAA587B7-63F7-499D-ABB0-C745550E9990 - 979e71e63975756"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getWeatherData() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "FAA587B7-63F7-499D-ABB0-C745550E9990 - 979e71e639756c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getWeatherData() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4B6AB0F-51D4-4657-BFDD-333E90BAE262"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVBurnIndicator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "getLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4B6AB0F-51D4-4657-BFDD-333E90BAE262 - 62461a4e5f5e5282"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "F4B6AB0F-51D4-4657-BFDD-333E90BAE262 - 62461a4e5f5e531d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "F4B6AB0F-51D4-4657-BFDD-333E90BAE262 - 62461a4e5f5e52fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CA183D7-25D7-477C-B615-C8B61CCCF56B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVBurnIndicator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "getLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7CA183D7-25D7-477C-B615-C8B61CCCF56B - 62461a4e5f5e52a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "7CA183D7-25D7-477C-B615-C8B61CCCF56B - 62461a4e5f5e533e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "7CA183D7-25D7-477C-B615-C8B61CCCF56B - 62461a4e5f5e531d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVBurnIndicator.ViewController.getLocation() -&gt; ()"
+                  moduleName = "UVBurnIndicator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshitsaxena/Documents/iOS/UVBurnIndicator/UVBurnIndicator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5306DCC-FF75-43AE-A8EF-C98C7E2212E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVBurnIndicator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF6267BE-890E-4211-A1EC-3A3CA4961025"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVBurnIndicator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

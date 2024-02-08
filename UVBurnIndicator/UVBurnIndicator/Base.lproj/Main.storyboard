@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="CooperHewitt-Bold.otf">
+            <string>CooperHewitt-Bold</string>
+        </array>
+        <array key="CooperHewitt-Book.otf">
+            <string>CooperHewitt-Book</string>
+        </array>
+        <array key="CooperHewitt-Thin.otf">
+            <string>CooperHewitt-Thin</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="UVBurnIndicator" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Skin Type" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mYW-Qe-BEu">
+                                <rect key="frame" x="167" y="103" width="194" height="22"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="194" id="Vq2-ZA-4YN"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="CooperHewitt-Thin" family="Cooper Hewitt" pointSize="22"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" animating="YES" style="medium" translatesAutoresizingMaskIntoConstraints="NO" id="tZh-s9-Cqv">
+                                <rect key="frame" x="53" y="783" width="20" height="20"/>
+                            </activityIndicatorView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Getting Data" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="B2E-1d-9ut">
+                                <rect key="frame" x="123" y="781" width="113.66666666666669" height="22"/>
+                                <fontDescription key="fontDescription" name="CooperHewitt-Thin" family="Cooper Hewitt" pointSize="22"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Minutes To Burn..." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gpe-jW-7m4">
+                                <rect key="frame" x="99.666666666666686" y="340.66666666666669" width="194" height="22"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="194" id="H7t-M9-4V6"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="CooperHewitt-Book" family="Cooper Hewitt" pointSize="22"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="00" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bTO-Ti-mpL">
+                                <rect key="frame" x="99.000000000000014" y="390" width="203.33333333333337" height="154"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="154" id="dPV-8j-Taw"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="CooperHewitt-Bold" family="Cooper Hewitt" pointSize="54"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="F9d-Zr-HPw">
+                                <rect key="frame" x="132" y="596" width="136" height="35"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="136" id="2Jf-h7-8rg"/>
+                                </constraints>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Set Reminder"/>
+                                <connections>
+                                    <action selector="changeSkinClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nBG-lX-gbr"/>
+                                    <action selector="reminMeButtonClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Nb4-kG-7qH"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="z40-00-uN5">
+                                <rect key="frame" x="30" y="95" width="83" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Change"/>
+                                <connections>
+                                    <action selector="changeSkinClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Hj8-CP-sHh"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="z40-00-uN5" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="2mM-eM-k81"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="F9d-Zr-HPw" secondAttribute="trailing" constant="125" id="8eH-Bd-HoY"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="mYW-Qe-BEu" secondAttribute="trailing" constant="32" id="9SL-rq-FaE"/>
+                            <constraint firstItem="bTO-Ti-mpL" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" constant="28.5" id="II4-wo-LcF"/>
+                            <constraint firstItem="B2E-1d-9ut" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="722" id="LAr-ZX-IxM"/>
+                            <constraint firstItem="bTO-Ti-mpL" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" constant="4.1666666666666856" id="MvW-qg-kRn"/>
+                            <constraint firstItem="mYW-Qe-BEu" firstAttribute="centerY" secondItem="z40-00-uN5" secondAttribute="centerY" constant="1.5" id="R1q-mf-Xji"/>
+                            <constraint firstItem="gpe-jW-7m4" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" constant="-87" id="TQN-kb-ID2"/>
+                            <constraint firstItem="B2E-1d-9ut" firstAttribute="leading" secondItem="tZh-s9-Cqv" secondAttribute="trailing" constant="50" id="Tro-bb-2mX"/>
+                            <constraint firstItem="bTO-Ti-mpL" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.517388" id="U0o-el-JRn"/>
+                            <constraint firstItem="B2E-1d-9ut" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="123" id="WML-15-dF2"/>
+                            <constraint firstItem="tZh-s9-Cqv" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="53" id="Y1O-EF-Qv9"/>
+                            <constraint firstItem="gpe-jW-7m4" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="aCX-u2-nln"/>
+                            <constraint firstItem="F9d-Zr-HPw" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="132" id="abd-wC-F9G"/>
+                            <constraint firstItem="F9d-Zr-HPw" firstAttribute="top" secondItem="bTO-Ti-mpL" secondAttribute="bottom" constant="52" id="bY7-66-a5Z"/>
+                            <constraint firstItem="z40-00-uN5" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" multiplier="1.5" constant="6.5" id="bmk-pw-XmR"/>
+                            <constraint firstItem="tZh-s9-Cqv" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="724" id="qnt-xY-vIf"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="activityIndicator" destination="tZh-s9-Cqv" id="JQA-4N-70S"/>
+                        <outlet property="bigTimeLabel" destination="bTO-Ti-mpL" id="lJF-qN-suu"/>
+                        <outlet property="skinTypeLabel" destination="mYW-Qe-BEu" id="niC-QG-DhC"/>
+                        <outlet property="statusLabel" destination="B2E-1d-9ut" id="FoZ-PD-XRH"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="20.610687022900763" y="3.5211267605633805"/>
+        </scene>
+    </scenes>
+</document>
